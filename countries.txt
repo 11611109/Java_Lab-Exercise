@@ -1,0 +1,4 @@
+﻿Afghanistan,10000,200
+Akrotiri,20000,100
+Albania,3000,20
+Algeria,300,28
